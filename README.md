@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/OMPRAKASH261/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Hash Table
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+## String
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
