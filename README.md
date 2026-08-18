@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/OMPRAKASH261/LeetCode/tree/master/0118-pascals-triangle) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OMPRAKASH261/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/OMPRAKASH261/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OMPRAKASH261/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
