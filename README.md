@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/OMPRAKASH261/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/OMPRAKASH261/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
