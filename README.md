@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/OMPRAKASH261/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/OMPRAKASH261/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OMPRAKASH261/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/OMPRAKASH261/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
