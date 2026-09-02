@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OMPRAKASH261/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/OMPRAKASH261/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/OMPRAKASH261/LeetCode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/OMPRAKASH261/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/OMPRAKASH261/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/OMPRAKASH261/LeetCode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/OMPRAKASH261/LeetCode/tree/master/0577-employee-bonus) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/OMPRAKASH261/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
