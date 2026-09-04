@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +93,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OMPRAKASH261/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
