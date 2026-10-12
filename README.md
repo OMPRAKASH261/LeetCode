@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OMPRAKASH261/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/OMPRAKASH261/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/OMPRAKASH261/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OMPRAKASH261/LeetCode/tree/master/0020-valid-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/OMPRAKASH261/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/OMPRAKASH261/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
