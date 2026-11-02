@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OMPRAKASH261/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/OMPRAKASH261/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/OMPRAKASH261/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/OMPRAKASH261/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OMPRAKASH261/LeetCode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OMPRAKASH261/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/OMPRAKASH261/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/OMPRAKASH261/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/OMPRAKASH261/LeetCode/tree/master/0268-missing-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OMPRAKASH261/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/OMPRAKASH261/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OMPRAKASH261/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OMPRAKASH261/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/OMPRAKASH261/LeetCode/tree/master/1768-merge-strings-alternately) |
