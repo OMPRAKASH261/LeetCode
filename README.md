@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/OMPRAKASH261/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/OMPRAKASH261/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/OMPRAKASH261/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/OMPRAKASH261/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OMPRAKASH261/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/OMPRAKASH261/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/OMPRAKASH261/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/OMPRAKASH261/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/OMPRAKASH261/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OMPRAKASH261/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Database
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/OMPRAKASH261/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/OMPRAKASH261/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory
 |  |
